@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="background:#212121">
+  <g fill="none" fill-rule="evenodd">
+    <g fill="#FFFFFF" transform="translate(0 9)">
+      <circle cx="21" cy="3" r="3"/>
+      <circle cx="12" cy="3" r="3"/>
+      <circle cx="3" cy="3" r="3"/>
+    </g>
+    <rect width="24" height="24"/>
+  </g>
+</svg>

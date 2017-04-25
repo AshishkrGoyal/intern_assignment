@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="40" viewBox="0 0 260 40" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <rect id="a" width="260" height="40" rx="4"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#FFFFFF" xlink:href="#a"/>
+    <rect width="259" height="39" x=".5" y=".5" stroke="#212121" rx="4"/>
+    <g transform="translate(228 8)">
+      <path fill="#212121" fill-rule="nonzero" d="M7.39898478,11.1954343 C6.86700508,11.727414 6.86700508,12.5899235 7.39898478,13.1219032 L14.2530898,19.9760083 C14.7850695,20.507988 15.647579,20.507988 16.1795587,19.9760083 C16.7115384,19.4440286 16.7115384,18.5815191 16.1795587,18.0495394 L9.3254537,11.1954343 L9.3254537,13.1219032 L16.1219032,6.32545369 C16.6538829,5.79347399 16.6538829,4.93096448 16.1219032,4.39898477 C15.5899235,3.86700507 14.727414,3.86700507 14.1954343,4.39898477 L7.39898478,11.1954343 Z" transform="scale(1 -1) rotate(90 23.977 0)"/>
+      <rect width="24" height="24"/>
+    </g>
+    <text fill="#212121" font-family="Roboto-Regular, Roboto" font-size="14">
+      <tspan x="14" y="25">NAME</tspan>
+    </text>
+  </g>
+</svg>

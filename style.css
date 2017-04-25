@@ -1,0 +1,49 @@
+body
+{
+    width: 100%;
+}
+.container
+{
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
+.options
+{
+    background-color: darkblue;
+    width: 100%;
+    height: 150px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10%;
+    padding-right: 10%;
+    /* text-align: left;*/
+}
+.options img
+{
+    width: 48px;
+    height: 48px;
+}
+.detail span
+{
+    text-transform: capitalize;
+    text-align: center;
+    color: white;
+    /*font-size: medium*/
+}
+#more img
+{
+    float: right;
+}
+.talk
+{
+    background-color: lightgrey;
+    margin-top: 2%;
+    /*float: right;*/
+}
+.talk img
+{
+    float: right;
+    margin-top: 4%;
+    margin-right: 2%;
+}

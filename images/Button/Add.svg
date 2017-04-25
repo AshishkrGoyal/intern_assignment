@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="36" viewBox="0 0 85 36">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="85" height="36" fill="#0076FF" rx="3"/>
+    <text fill="#FFFFFF" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="-.438">
+      <tspan x="28.351" y="24">ADD</tspan>
+    </text>
+  </g>
+</svg>
